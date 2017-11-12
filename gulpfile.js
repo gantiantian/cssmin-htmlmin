@@ -5,6 +5,8 @@
 	cnpm i
 	gulp default
 	git init
+	touch README
+	git add README
 	git add --all
 	git commit -m '描述信息'(
 		github仓库地址；
