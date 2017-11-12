@@ -1,8 +1,19 @@
-// cnpm init --yes
-// cnpm i gulp --save-dev
-// cnpm i
-// gulp default
-
+	
+/**
+	cnpm init --yes
+	cnpm i gulp --save-dev
+	cnpm i
+	gulp default
+	git init
+	git add --all
+	git commit -m '描述信息'(
+		github仓库地址；
+		git remote add 名称 地址;
+		git remote -v 查看远程仓库的配置信息；
+		git push -u 远程仓库信息 master;
+		.......git clone   git pull
+	)
+ */
 
 /**
 	gulp
